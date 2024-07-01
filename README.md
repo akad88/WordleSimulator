@@ -1,1 +1,1 @@
-# WordleSimulator
+The Wordle Simulator project essentially develops a game of Wordle. Users will have a limited number of attempts to guess a secret word. The game will inform the user whether certain letters are in the correct spot, incorrect spot, or don't appear at all. 
